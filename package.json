@@ -12,8 +12,13 @@
     "node": ">=14.0.0"
   },
   "dependencies": {
+dependabot/npm_and_yarn/array-move-4.0.0
+    "@discordjs/opus": "^0.7.0",
+    "array-move": "^4.0.0",
+
     "@discordjs/opus": "^0.9.0",
     "array-move": "^3.0.1",
+
     "discord.js": "^14.9.0",
  dependabot/npm_and_yarn/i18n-0.15.1
     "ffmpeg-static": "^4.4.1",
