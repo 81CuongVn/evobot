@@ -1,4 +1,5 @@
 /**
+Note me abou woek/
  * Module Imports
  */
 const { Client, Collection } = require("discord.js");
